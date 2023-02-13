@@ -1,4 +1,4 @@
-let str="naman";
+let str="namannnn";
 let bag="";
     for(let i=str.length-1;i>=0;i--){
         bag=bag+str[i];
